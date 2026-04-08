@@ -1,0 +1,5 @@
+stargate_venv/
+__pycache__/
+*.log
+stargate_core
+*.png
